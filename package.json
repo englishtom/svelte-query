@@ -42,7 +42,6 @@
     "@testing-library/svelte": "^3.2.2",
     "@types/jest": "^28.1.1",
     "@types/node-fetch": "2.6.2",
-    "@wundergraph/sdk": "workspace:*",
     "jest": "^29.6.1",
     "jest-environment-jsdom": "^29.6.1",
     "nock": "^13.2.9",
