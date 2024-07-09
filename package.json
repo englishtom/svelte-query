@@ -32,7 +32,7 @@
   "peerDependencies": {
     "@tanstack/svelte-query": "^5",
     "@wundergraph/sdk": ">=0.143.0",
-    "svelte": ">=3 <5"
+    "svelte": ">=3"
   },
   "devDependencies": {
     "@sveltejs/package": "^2.2.0",
